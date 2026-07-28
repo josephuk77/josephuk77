@@ -14,7 +14,7 @@ Java와 Spring을 중심으로 백엔드의 기본기를 쌓고 있습니다.<br
 ## 지금 집중하는 것
 
 - FaithLog 백엔드 개발과 모바일 서비스 운영
-- iOS 배포 이후 안정화 및 Android 출시 테스트
+- iOS·Android 배포 이후 안정화 및 서비스 운영
 - 객체지향 설계, 데이터베이스 모델링, 백엔드 아키텍처
 - Python과 AI를 활용한 개인 지식·학습 워크플로 자동화
 
@@ -47,16 +47,17 @@ Java와 Spring을 중심으로 백엔드의 기본기를 쌓고 있습니다.<br
 Spring Boot 백엔드와 React Native 앱을 개발하고, 실제 배포 이후의 안정화와 사용자 경험 개선까지 이어가고 있습니다.
 
 ![iOS](https://img.shields.io/badge/iOS-Released-2ea44f?style=flat-square&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-Testing-FFB000?style=flat-square&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-Released-2ea44f?style=flat-square&logo=android&logoColor=white)
 ![Guide](https://img.shields.io/badge/User_%26_Operator_Guide-Live-6366F1?style=flat-square&logo=readthedocs&logoColor=white)
 
 - **iOS** — App Store 정식 배포 및 운영 중
-- **Android** — 출시를 위한 테스트 진행 중
+- **Android** — Google Play 정식 배포 및 운영 중
 - **Documentation** — 사용자와 운영자를 위한 웹 사용설명서 제작 및 배포
 - **Architecture** — Spring Boot 기반 모듈러 모놀리스, PostgreSQL, Redis, Docker
 - **Client** — React Native · TypeScript 기반 크로스 플랫폼 앱
 
 [![App Store](https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/kr/app/faithlog-jiguchon/id6784053598)
+[![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.faithlog.app&hl=ko)
 [![User Guide](https://img.shields.io/badge/Open-User_%26_Operator_Guide-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://faithlog-operator-guide-web.vercel.app/)
 [![GitHub Organization](https://img.shields.io/badge/View-FaithLog_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/FaithLog)
 
