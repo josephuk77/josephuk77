@@ -85,6 +85,15 @@ Spring Boot 백엔드와 React Native 앱을 개발하고, 실제 배포 이후�
 [![Repositories](https://img.shields.io/badge/Explore-Repositories-181717?style=flat-square&logo=github)](https://github.com/josephuk77?tab=repositories)
 [![Activity](https://img.shields.io/badge/View-Contributions-2ea44f?style=flat-square&logo=github)](https://github.com/josephuk77?tab=overview&from=2026-01-01&to=2026-12-31)
 
+## Education & Training
+
+| Program | Period | Focus |
+| --- | --- | --- |
+| **성결대학교 정보통신공학과** | 2019.03 – 2026.08 | 정보통신공학 전공 |
+| **생성형 AI와 프롬프트를 활용한 AI 응용 개발자 양성 과정** | 2026.03 – 2026.09 | AI Agent, LangGraph, vLLM·LiteLLM, Langfuse, Neo4j·GraphRAG, 멀티에이전트 설계와 LLMOps |
+| **MOBIUS BOOTCAMP 1기** | 2025.09 – 2026.03 | ISO 26262·ASPICE·MISRA C 기반 차량 제어 SW 설계, C/C++ 테스트와 기능 안전 검증 |
+| **KDT 심화 — AI를 활용한 백엔드 아키텍처** | 2025.02 – 2025.05 | Spring Boot MSA, 대규모 트래픽 처리, 모니터링과 팀 프로젝트 |
+
 ---
 
 <div align="center">
