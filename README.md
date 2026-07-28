@@ -31,6 +31,7 @@ Java와 Spring을 중심으로 백엔드의 기본기를 쌓고 있습니다.<br
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -38,6 +39,16 @@ Java와 Spring을 중심으로 백엔드의 기본기를 쌓고 있습니다.<br
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+
+**AI Agents & LLMOps**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-7C3AED?style=flat-square&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-0F172A?style=flat-square&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-111827?style=flat-square&logo=langfuse&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+![GraphRAG](https://img.shields.io/badge/GraphRAG-2563EB?style=flat-square&logoColor=white)
 
 ## Featured Project
 
