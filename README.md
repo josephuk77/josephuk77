@@ -72,14 +72,15 @@ Spring Boot 백엔드와 React Native 앱을 개발하고, 실제 배포 이후�
 [![User Guide](https://img.shields.io/badge/Open-User_%26_Operator_Guide-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://faithlog-operator-guide-web.vercel.app/)
 [![GitHub Organization](https://img.shields.io/badge/View-FaithLog_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/FaithLog)
 
-## Other Projects
+## Selected Projects
 
 | Project | Description |
 | --- | --- |
-| [**Obsidian Writing Vault**](https://github.com/josephuk77/obsidian-writing-vault) | 학습 기록, 프로젝트 기획, 블로그 초안과 AI 작업 맥락을 연결하는 개인 지식 시스템 |
-| [**Tune Share Hub**](https://github.com/josephuk77/tune-share-hub) | 음악 플레이리스트를 공유하고 소통하는 서비스 |
-| [**Python Practice**](https://github.com/josephuk77/python_practice) | Python 기본기부터 객체지향과 파일 처리까지 학습 내용을 코드로 기록 |
-| [**Algorithm Java**](https://github.com/josephuk77/Algorithm_Java) | Java로 자료구조와 알고리즘 문제 풀이를 축적 |
+| [**LoopGauge**](https://github.com/josephuk77/LoopGauge) | 프로젝트의 품질 기준을 유지하면서 비용이 가장 낮은 LLM 실행 정책을 찾는 TypeScript 기반 CLI·MCP 실험 도구 |
+| [**강남 3구 실거래가**](https://github.com/biz-kosa-team5) | FastAPI·PostgreSQL 기반 지도·실거래 조회 API와 LLM 질문 분해·법률 RAG 구조를 설계한 부동산 데이터 서비스 |
+| [**곰곰이 알리미**](https://github.com/JeongReminder/ReminderBackend) | 팀장으로 백엔드와 DevOps를 맡아 공지 알림·팀 매칭을 구현한 Flutter·Spring Boot 모바일 서비스 |
+| [**AI 물류 관리 및 배송 시스템**](https://github.com/DevSquad10/b2b-service-platform) | Spring Boot MSA에서 사용자·Eureka·API Gateway를 담당하고 비동기 메시징과 AI 기능을 적용한 팀 프로젝트 |
+| [**전자식 차일드 락**](https://github.com/MBP-T05/MBP-T05-ChildLock) | ISO 26262·MISRA C 기준으로 요구사항, 위험 분석, 상태 머신과 테스트 체계를 설계한 차량 기능 안전 프로젝트 |
 
 [![Repositories](https://img.shields.io/badge/Explore-Repositories-181717?style=flat-square&logo=github)](https://github.com/josephuk77?tab=repositories)
 [![Activity](https://img.shields.io/badge/View-Contributions-2ea44f?style=flat-square&logo=github)](https://github.com/josephuk77?tab=overview&from=2026-01-01&to=2026-12-31)
