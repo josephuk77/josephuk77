@@ -101,3 +101,11 @@ Spring Boot 백엔드와 React Native 앱을 개발하고, 실제 배포 이후�
 좋은 서비스는 탄탄한 기본기와 꾸준한 개선에서 시작된다고 믿습니다.
 
 </div>
+
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=josephuk77&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/josephuk77"
+  width="600"
+  height="300"
+/>
+</a>
